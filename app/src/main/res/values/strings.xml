@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Money</string>
+    <string name="data">Data</string>
+    <string name="wydatek">Wydatek</string>
+    <string name="cel_wydatku">Cel wydatku</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="dodanie_wydatku">Przejdź do dodania wydatku</string>
+</resources>
