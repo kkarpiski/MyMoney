@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787487908973",
+    "firebase_url": "https://my-money-d3d1d.firebaseio.com",
+    "project_id": "my-money-d3d1d",
+    "storage_bucket": "my-money-d3d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787487908973:android:8fab976832a648729f8b64",
+        "android_client_info": {
+          "package_name": "com.example.mymoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787487908973-s9ha9ib3cct4sti63eqbc7r4a6gs81je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8HzHrFwYI2oS5WpuEWeXboLl3orLpmQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787487908973-s9ha9ib3cct4sti63eqbc7r4a6gs81je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

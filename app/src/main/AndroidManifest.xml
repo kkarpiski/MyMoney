@@ -8,13 +8,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name=".MainMenuActivity" />
         <activity android:name=".AddExpenseActivity" />
+        <activity android:name=".AddCategoryActivity" />
+        <activity android:name=".AccountMenuActivity" />
+        <activity android:name=".AddAccountActivity" />
+        <activity android:name=".RegisterMenuActivity"/>
 
-        <activity android:name=".MainMenuActivity">
+
+        <activity android:name=".LoginMenuActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 </manifest>

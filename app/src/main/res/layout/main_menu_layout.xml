@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/add_new_category_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_new_wydatek"
+        android:text="@string/new_category" />
+
+    <Button
+        android:id="@+id/go_to_add_bill_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_new_bill"
+        android:text="@string/charge" />
+
+    <Button
+        android:id="@+id/go_to_add_transport_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_new_transport2"
+        android:text="@string/transport" />
+
+    <Button
+        android:id="@+id/go_to_add_shop_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_new_shop2"
+        android:text="@string/acquisitions" />
+
+    <Button
+        android:id="@+id/go_to_add_health_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_new_helath"
+        android:text="@string/health" />
+
+    <Button
+        android:id="@+id/go_to_my_accounts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_new_bank_account"
+        android:text="@string/My_finances" />
+
+</LinearLayout>

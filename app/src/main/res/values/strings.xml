@@ -1,8 +1,35 @@
 <resources>
     <string name="app_name">My Money</string>
     <string name="data">Data</string>
-    <string name="wydatek">Wydatek</string>
-    <string name="cel_wydatku">Cel wydatku</string>
-    <string name="zapisz">Zapisz</string>
-    <string name="dodanie_wydatku">Przejdź do dodania wydatku</string>
+    <string name="expense">Wydatek</string>
+    <string name="expense_goal">Cel wydatku</string>
+    <string name="save">Zapisz</string>
+    <string name="add_expense">Przejdź do dodania wydatku</string>
+    <string name="name">Nazwa</string>
+    <string name="input_name">Wprowadź nazwe</string>
+    <string name="new_category">Nowa kategoria</string>
+    <string name="charge">Opłaty</string>
+    <string name="transport">Transport</string>
+    <string name="acquisitions">Zakupy</string>
+    <string name="health">Zdrowie</string>
+    <string name="new_account">Nowe konto</string>
+    <string name="bank_account">Konto w banku</string>
+    <string name="casch">Gotówka</string>
+    <string name="add_purpose">Dodaj cel</string>
+    <string name="savings">Oszczędności</string>
+    <string name="input_settelment_balance">Wprowadz saldo</string>
+    <string name="input_balance">Wprowadź obecne saldo</string>
+    <string name="set_as_default">Ustaw jako domyślne</string>
+    <string name="category_name">nazwa kategorii</string>
+    <string name="Bank_accounts">Konta bankowe</string>
+    <string name="accounts">Konta</string>
+    <string name="My_finances">Moje finanse</string>
+    <string name="currency_choose">Wybierz walutę</string>
+    <string name="currency_name">Nazwa waluty</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
 </resources>

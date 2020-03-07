@@ -20,7 +20,7 @@
         android:id="@+id/cost_label"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/wydatek" />
+        android:text="@string/expense" />
 
     <EditText
         android:id="@+id/wydatek"
@@ -33,7 +33,7 @@
         android:id="@+id/for_what_expense"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/cel_wydatku" />
+        android:text="@string/expense_goal" />
 
     <EditText
         android:id="@+id/cel"
@@ -46,5 +46,5 @@
         android:id="@+id/potwierdz"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/zapisz" />
+        android:text="@string/save" />
 </LinearLayout>
